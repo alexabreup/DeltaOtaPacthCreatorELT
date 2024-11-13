@@ -1,10 +1,11 @@
-# Fork do projeto Delta OTA Patch Creator, criado pelo Felipe Oliveira - Departamento de Projetos ELT
-
 ## LABINOVA: Departamento de Projetos
 ### Laboratório de Eletrônica
 
+Delta OTA Patch Creator do Departamento de Projetos, Laboratório de Eletrônica Eletromidia.
 
 ## Sobre o Delta OTA:
+
+*Fork do projeto Delta OTA Patch Creator, criado pelo Felipe Oliveira
 
 Vantagens de usar este design para atualização OTA:
 O arquivo de patch tem tamanho menor que o arquivo de firmware original. Isso reduz o tempo e o uso da rede para baixar o arquivo do servidor.
